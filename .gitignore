@@ -1,0 +1,15 @@
+# Eclipse
+/.cproject
+/.project
+/.settings
+*.launch
+/Debug/
+.code_review_properties
+
+
+# Windows dbs
+Thumbs.db
+
+# Project
+/tmp/
+/esp/esp_driver/network_adapter/build/
