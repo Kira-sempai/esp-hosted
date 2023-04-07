@@ -13,3 +13,4 @@ Thumbs.db
 # Project
 /tmp/
 /esp/esp_driver/network_adapter/build/
+/esp_hosted_fg/esp/esp_driver/network_adapter/build
