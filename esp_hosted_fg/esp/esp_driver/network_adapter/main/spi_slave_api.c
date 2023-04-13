@@ -64,7 +64,7 @@ static const char TAG[] = "SPI_DRIVER";
 
     #define DMA_CHAN               ESP_SPI_CONTROLLER
 
-    #define SPI_CLK_MHZ            10
+    #define SPI_CLK_MHZ            15
 
 #elif defined CONFIG_IDF_TARGET_ESP32S2
 
